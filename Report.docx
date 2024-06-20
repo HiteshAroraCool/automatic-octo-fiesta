@@ -1,0 +1,41 @@
+Task Solution Report
+
+Objective: Develop a solution to extract URLs containing the path "arcgis/rest/services" from Google search results.
+
+Approach:
+
+1. Environment Setup: Initialized Selenium WebDriver (Chrome) and set up the path for WebDriver executable.
+
+2. Google Search Automation:
+
+    - Google Search: Navigated to Google and performed a search query for "arcgis/rest/services".
+    - Pagination Handling: Implemented a loop to handle "More results" button clicks until all relevant results are loaded.
+    - Scrolling: Used scrolling to ensure all content is loaded, as some results might be dynamically loaded as the user scrolls down.
+
+3. Link Extraction:
+
+    - XPath Usage: Utilized XPath to locate and extract URLs from <cite> elements that contain "arcgis/rest/services".
+    - Conditional Extraction: Ensured extraction only for URLs matching the specified path criteria.
+
+4. Data Handling:
+
+    - CSV Export: Stored extracted URLs in a CSV file using Pandas DataFrame.
+
+5. Error Handling:
+
+    - Try-Except Blocks: Implemented try-except blocks to handle potential exceptions during WebDriver operations, ensuring the script continues to run smoothly.
+
+6. Object-Oriented Approach:
+
+    - Class Definition: Organized the solution into a class (GoogleSearchScraper) to encapsulate related functionality.
+    - Method Modularity: Separated methods for initializing the driver, performing searches, scraping links, and saving data, enhancing code readability and maintainability.
+
+7. Challenges Encountered:
+
+    - Dynamic Content: Handling dynamically loaded content required continuous scrolling and monitoring for additional search results.
+    - XPath Adjustments: Ensuring XPath selectors accurately targeted elements even as Google's frontend might undergo changes.
+    - Performance Tuning: Balancing between waiting for content to load and efficient script execution to avoid unnecessary delays.
+
+8. Conclusion:
+The solution effectively achieves the task objectives by automating Google search, navigating through multiple result pages, extracting specific URLs, and persisting the data in a structured format. 
+The use of Selenium WebDriver and Python libraries facilitated the automation of web interactions, while the OOP approach enhanced code structure and maintainability.
