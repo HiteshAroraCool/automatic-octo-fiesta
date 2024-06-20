@@ -2,131 +2,48 @@ id,link
 0,https://developers.arcgis.com › rest › services-reference
 1,https://enterprise.arcgis.com › publish-services › windows
 2,https://sampleserver6.arcgisonline.com › rest › services
-3,https://developers.arcgis.com › rest › services-reference
-4,https://enterprise.arcgis.com › publish-services › windows
-5,https://sampleserver6.arcgisonline.com › rest › services
-6,https://enterprise.arcgis.com › publish-services › windows
-7,https://services.thelist.tas.gov.au › arcgis › rest › services
-8,https://mapscaping.com › arcgis-rest-api-services-in-qgis
-9,https://dnrmaps.wi.gov › arcgis › rest › services
-10,https://developers.arcgis.com › rest › services-reference
-11,https://enterprise.arcgis.com › publish-services › windows
-12,https://sampleserver6.arcgisonline.com › rest › services
-13,https://enterprise.arcgis.com › publish-services › windows
-14,https://services.thelist.tas.gov.au › arcgis › rest › services
-15,https://mapscaping.com › arcgis-rest-api-services-in-qgis
-16,https://dnrmaps.wi.gov › arcgis › rest › services
-17,https://environment.data.gov.uk › arcgis › rest › services
-18,https://enviroatlas.epa.gov › arcgis › rest › services
-19,https://www.pagis.org › arcgis › rest › services
-20,https://gis.blm.gov › arcgis › rest › services
-21,https://geocatmin.ingemmet.gob.pe › rest › services
-22,https://basemap.nationalmap.gov › ArcGIS › rest › services
-23,https://mapservice.gov.in › mapserviceserv176 › login
-24,https://kygisserver.ky.gov › arcgis › rest › services
-25,https://gis.water.ca.gov › arcgis › rest › services
-26,https://developers.arcgis.com › rest › services-reference
-27,https://enterprise.arcgis.com › publish-services › windows
-28,https://sampleserver6.arcgisonline.com › rest › services
-29,https://enterprise.arcgis.com › publish-services › windows
-30,https://services.thelist.tas.gov.au › arcgis › rest › services
-31,https://mapscaping.com › arcgis-rest-api-services-in-qgis
-32,https://dnrmaps.wi.gov › arcgis › rest › services
-33,https://environment.data.gov.uk › arcgis › rest › services
-34,https://enviroatlas.epa.gov › arcgis › rest › services
-35,https://www.pagis.org › arcgis › rest › services
-36,https://gis.blm.gov › arcgis › rest › services
-37,https://geocatmin.ingemmet.gob.pe › rest › services
-38,https://basemap.nationalmap.gov › ArcGIS › rest › services
-39,https://mapservice.gov.in › mapserviceserv176 › login
-40,https://kygisserver.ky.gov › arcgis › rest › services
-41,https://gis.water.ca.gov › arcgis › rest › services
-42,https://sampleserver6.arcgisonline.com › rest › services
-43,https://gis.saskatchewan.ca › arcgis › rest › services
-44,https://gismaps.vdem.virginia.gov › rest › services
-45,https://gis.investodisha.gov.in › arcgis › services
-46,https://sewer.ntpc.gov.tw › arcgis › rest › services › GPS...
-47,https://developers.arcgis.com › rest › services-reference
-48,https://enterprise.arcgis.com › publish-services › windows
-49,https://sampleserver6.arcgisonline.com › rest › services
-50,https://enterprise.arcgis.com › publish-services › windows
-51,https://services.thelist.tas.gov.au › arcgis › rest › services
-52,https://mapscaping.com › arcgis-rest-api-services-in-qgis
-53,https://dnrmaps.wi.gov › arcgis › rest › services
-54,https://environment.data.gov.uk › arcgis › rest › services
-55,https://enviroatlas.epa.gov › arcgis › rest › services
-56,https://www.pagis.org › arcgis › rest › services
-57,https://gis.blm.gov › arcgis › rest › services
-58,https://geocatmin.ingemmet.gob.pe › rest › services
-59,https://basemap.nationalmap.gov › ArcGIS › rest › services
-60,https://mapservice.gov.in › mapserviceserv176 › login
-61,https://kygisserver.ky.gov › arcgis › rest › services
-62,https://gis.water.ca.gov › arcgis › rest › services
-63,https://sampleserver6.arcgisonline.com › rest › services
-64,https://gis.saskatchewan.ca › arcgis › rest › services
-65,https://gismaps.vdem.virginia.gov › rest › services
-66,https://gis.investodisha.gov.in › arcgis › services
-67,https://sewer.ntpc.gov.tw › arcgis › rest › services › GPS...
-68,https://developers.arcgis.com › rest › services-reference
-69,https://enterprise.arcgis.com › publish-services › windows
-70,https://sampleserver6.arcgisonline.com › rest › services
-71,https://enterprise.arcgis.com › publish-services › windows
-72,https://services.thelist.tas.gov.au › arcgis › rest › services
-73,https://mapscaping.com › arcgis-rest-api-services-in-qgis
-74,https://dnrmaps.wi.gov › arcgis › rest › services
-75,https://environment.data.gov.uk › arcgis › rest › services
-76,https://enviroatlas.epa.gov › arcgis › rest › services
-77,https://www.pagis.org › arcgis › rest › services
-78,https://gis.blm.gov › arcgis › rest › services
-79,https://geocatmin.ingemmet.gob.pe › rest › services
-80,https://basemap.nationalmap.gov › ArcGIS › rest › services
-81,https://mapservice.gov.in › mapserviceserv176 › login
-82,https://kygisserver.ky.gov › arcgis › rest › services
-83,https://gis.water.ca.gov › arcgis › rest › services
-84,https://sampleserver6.arcgisonline.com › rest › services
-85,https://gis.saskatchewan.ca › arcgis › rest › services
-86,https://gismaps.vdem.virginia.gov › rest › services
-87,https://gis.investodisha.gov.in › arcgis › services
-88,https://sewer.ntpc.gov.tw › arcgis › rest › services › GPS...
-89,https://sigonline.cm-pvarzim.pt › arcgis › rest › services
-90,https://rtamaps2.soundtransit.org › arcgis › rest › services
-91,https://sewer.ntpc.gov.tw › arcgis › rest › services › Map...
-92,https://gis-hsl.hessen.de › arcgis › rest › services › Featur...
-93,https://arlgis.arlingtonva.us › arcgis › rest › services
-94,https://arcportal.zagreb.hr › services
-95,https://sigonline.cm-pvarzim.pt › rest › services
-96,https://developers.arcgis.com › rest › services-reference
-97,https://enterprise.arcgis.com › publish-services › windows
-98,https://sampleserver6.arcgisonline.com › rest › services
-99,https://enterprise.arcgis.com › publish-services › windows
-100,https://services.thelist.tas.gov.au › arcgis › rest › services
-101,https://mapscaping.com › arcgis-rest-api-services-in-qgis
-102,https://dnrmaps.wi.gov › arcgis › rest › services
-103,https://environment.data.gov.uk › arcgis › rest › services
-104,https://enviroatlas.epa.gov › arcgis › rest › services
-105,https://www.pagis.org › arcgis › rest › services
-106,https://gis.blm.gov › arcgis › rest › services
-107,https://geocatmin.ingemmet.gob.pe › rest › services
-108,https://basemap.nationalmap.gov › ArcGIS › rest › services
-109,https://mapservice.gov.in › mapserviceserv176 › login
-110,https://kygisserver.ky.gov › arcgis › rest › services
-111,https://gis.water.ca.gov › arcgis › rest › services
-112,https://sampleserver6.arcgisonline.com › rest › services
-113,https://gis.saskatchewan.ca › arcgis › rest › services
-114,https://gismaps.vdem.virginia.gov › rest › services
-115,https://gis.investodisha.gov.in › arcgis › services
-116,https://sewer.ntpc.gov.tw › arcgis › rest › services › GPS...
-117,https://sigonline.cm-pvarzim.pt › arcgis › rest › services
-118,https://rtamaps2.soundtransit.org › arcgis › rest › services
-119,https://sewer.ntpc.gov.tw › arcgis › rest › services › Map...
-120,https://gis-hsl.hessen.de › arcgis › rest › services › Featur...
-121,https://arlgis.arlingtonva.us › arcgis › rest › services
-122,https://arcportal.zagreb.hr › services
-123,https://sigonline.cm-pvarzim.pt › rest › services
-124,https://gis-hsl.hessen.de › services › Hosted › MapServer
-125,https://webgispv.comune.pv.it › arcgis › rest › services
-126,https://arlgis.arlingtonva.us › arcgis › rest › services
-127,https://maps.disasters.nasa.gov › ags04 › rest › services
-128,https://gisstaging.ecology.wa.gov › rest › services › GPS...
-129,https://webgispv.comune.pv.it › arcgis › rest › services
-130,https://gisstaging.ecology.wa.gov › rest › services › GPS...
+3,https://mapscaping.com › arcgis-rest-api-services-in-qgis
+4,https://enterprise.arcgis.com › publish-services › linux
+5,https://mapservice.gov.in › mapserviceserv176 › login
+6,https://dnrmaps.wi.gov › arcgis › rest › services
+7,https://enviroatlas.epa.gov › arcgis › rest › services
+8,https://environment.data.gov.uk › arcgis › rest › services
+9,https://www.pagis.org › arcgis › rest › services
+10,https://gis.blm.gov › arcgis › rest › services
+11,https://basemap.nationalmap.gov › ArcGIS › rest › services
+12,https://geocatmin.ingemmet.gob.pe › rest › services
+13,https://sampleserver6.arcgisonline.com › rest › services
+14,https://kygisserver.ky.gov › arcgis › rest › services
+15,https://gis.saskatchewan.ca › arcgis › rest › services
+16,https://gis.investodisha.gov.in › arcgis › services
+17,https://gis.water.ca.gov › arcgis › rest › services
+18,https://gismaps.vdem.virginia.gov › rest › services
+19,https://gis-hsl.hessen.de › arcgis › rest › services › Featur...
+20,https://maps.greenpeace.org › arcgis › rest › services
+21,https://maps.murfreesborotn.gov › server › rest › services
+22,https://spatial.industry.nsw.gov.au › arcgis › rest › services
+23,https://maps.disasters.nasa.gov › ags04 › rest › services
+24,https://gis-hsl.hessen.de › arcgis › rest › services › Featur...
+25,https://gisstaging.ecology.wa.gov › rest › services › GPS...
+26,https://webgispv.comune.pv.it › arcgis › rest › services
+27,https://maps.disasters.nasa.gov › services › ImageServer
+28,https://arcportal.zagreb.hr › services
+29,https://gisstaging.ecology.wa.gov › rest › services › GPS...
+30,https://gis.maine.gov › arcgis › rest › services › I...
+31,https://webgispv.comune.pv.it › arcgis › rest › services
+32,https://mahere-tst.at.govt.nz › server › rest › services › M...
+33,https://arcportal.zagreb.hr › services
+34,https://services.arcgis.com › ArcGIS › rest › services
+35,https://enterprise.arcgis.com › publish-services › windows
+36,https://enterprise.arcgis.com › publish-services › linux
+37,https://services2.arcgis.com › ArcGIS › rest › services
+38,https://desktop.arcgis.com › web-maps-and-services › a...
+39,https://developers.arcgis.com › rest › enterprise › services
+40,https://enterprise.arcgis.com › publish-services › linux
+41,https://enterprise.arcgis.com › publish-services › windows
+42,https://enterprise.arcgis.com › publish-services › linux
+43,https://services1.arcgis.com › arcgis › rest › services
+44,https://enterprise.arcgis.com › publish-services › windows
+45,https://services.arcgis.com › arcgis › rest › services
+46,https://enterprise.arcgis.com › publish-services › windows
+47,https://services7.arcgis.com › arcgis › rest › services
