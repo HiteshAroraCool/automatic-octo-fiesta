@@ -1,49 +1,27 @@
 id,link
 0,https://developers.arcgis.com › rest › services-reference
-1,https://enterprise.arcgis.com › publish-services › windows
-2,https://sampleserver6.arcgisonline.com › rest › services
-3,https://mapscaping.com › arcgis-rest-api-services-in-qgis
-4,https://enterprise.arcgis.com › publish-services › linux
-5,https://mapservice.gov.in › mapserviceserv176 › login
-6,https://dnrmaps.wi.gov › arcgis › rest › services
-7,https://enviroatlas.epa.gov › arcgis › rest › services
-8,https://environment.data.gov.uk › arcgis › rest › services
-9,https://www.pagis.org › arcgis › rest › services
-10,https://gis.blm.gov › arcgis › rest › services
-11,https://basemap.nationalmap.gov › ArcGIS › rest › services
-12,https://geocatmin.ingemmet.gob.pe › rest › services
-13,https://sampleserver6.arcgisonline.com › rest › services
-14,https://kygisserver.ky.gov › arcgis › rest › services
-15,https://gis.saskatchewan.ca › arcgis › rest › services
-16,https://gis.investodisha.gov.in › arcgis › services
-17,https://gis.water.ca.gov › arcgis › rest › services
-18,https://gismaps.vdem.virginia.gov › rest › services
-19,https://gis-hsl.hessen.de › arcgis › rest › services › Featur...
-20,https://maps.greenpeace.org › arcgis › rest › services
-21,https://maps.murfreesborotn.gov › server › rest › services
-22,https://spatial.industry.nsw.gov.au › arcgis › rest › services
-23,https://maps.disasters.nasa.gov › ags04 › rest › services
-24,https://gis-hsl.hessen.de › arcgis › rest › services › Featur...
-25,https://gisstaging.ecology.wa.gov › rest › services › GPS...
-26,https://webgispv.comune.pv.it › arcgis › rest › services
-27,https://maps.disasters.nasa.gov › services › ImageServer
-28,https://arcportal.zagreb.hr › services
-29,https://gisstaging.ecology.wa.gov › rest › services › GPS...
-30,https://gis.maine.gov › arcgis › rest › services › I...
-31,https://webgispv.comune.pv.it › arcgis › rest › services
-32,https://mahere-tst.at.govt.nz › server › rest › services › M...
-33,https://arcportal.zagreb.hr › services
-34,https://services.arcgis.com › ArcGIS › rest › services
-35,https://enterprise.arcgis.com › publish-services › windows
-36,https://enterprise.arcgis.com › publish-services › linux
-37,https://services2.arcgis.com › ArcGIS › rest › services
-38,https://desktop.arcgis.com › web-maps-and-services › a...
-39,https://developers.arcgis.com › rest › enterprise › services
-40,https://enterprise.arcgis.com › publish-services › linux
-41,https://enterprise.arcgis.com › publish-services › windows
-42,https://enterprise.arcgis.com › publish-services › linux
-43,https://services1.arcgis.com › arcgis › rest › services
-44,https://enterprise.arcgis.com › publish-services › windows
-45,https://services.arcgis.com › arcgis › rest › services
-46,https://enterprise.arcgis.com › publish-services › windows
-47,https://services7.arcgis.com › arcgis › rest › services
+1,https://sampleserver6.arcgisonline.com › rest › services
+2,https://mapscaping.com › arcgis-rest-api-services-in-qgis
+3,https://dnrmaps.wi.gov › arcgis › rest › services
+4,https://enviroatlas.epa.gov › arcgis › rest › services
+5,https://environment.data.gov.uk › arcgis › rest › services
+6,https://www.pagis.org › arcgis › rest › services
+7,https://gis.blm.gov › arcgis › rest › services
+8,https://sampleserver6.arcgisonline.com › rest › services
+9,https://kygisserver.ky.gov › arcgis › rest › services
+10,https://gis.saskatchewan.ca › arcgis › rest › services
+11,https://gis.water.ca.gov › arcgis › rest › services
+12,https://gis-hsl.hessen.de › arcgis › rest › services › Featur...
+13,https://maps.greenpeace.org › arcgis › rest › services
+14,https://spatial.industry.nsw.gov.au › arcgis › rest › services
+15,https://gis-hsl.hessen.de › arcgis › rest › services › Featur...
+16,https://webgispv.comune.pv.it › arcgis › rest › services
+17,https://gis.maine.gov › arcgis › rest › services › I...
+18,https://webgispv.comune.pv.it › arcgis › rest › services
+19,https://services.arcgis.com › ArcGIS › rest › services
+20,https://services2.arcgis.com › ArcGIS › rest › services
+21,https://developers.arcgis.com › rest › enterprise › services
+22,https://services3.arcgis.com › ArcGIS › rest › services
+23,https://services2.arcgis.com › ArcGIS › rest › services
+24,https://services1.arcgis.com › arcgis › rest › services
+25,https://services.arcgis.com › arcgis › rest › services
